@@ -13,6 +13,12 @@ Welcome to the Spiderweb Technology Web App! This Streamlit application utilizes
 
 ## How to Use
 
+**Enter API Key and Website URL:**
+- Enter your OpenAI API key in the designated text input field.
+- Provide the URL of Knovatec's website in the sidebar.
+- Then click Enter.
+- Once the URL is processed, you can ask any questions related to the website content in the text input field.
+
 1. Clone the repository:
 
    ```bash
